@@ -1,0 +1,50 @@
+
+
+
+h1 {
+	font-family:Times;
+	font-size:50px;
+	color:white;
+}
+
+h2 {
+	font-family:Helvetica;
+	font-size:26pt;
+	color:#333333;
+}
+
+div {
+	background-color:#C2D1B0
+}
+
+p {
+	font-family:Helvetica;
+	font-size:12px;
+	color:#333333;
+	text-align: center;
+}
+
+ul {
+	font-family:Helvetica;
+	font-size:12px;
+	color:#333333;
+}
+
+ol {
+	font-family:Helvetica;
+	font-size:12px;
+	color:#333333;
+}
+
+body {
+	background-color:#E6D3B3;
+
+}
+
+a {
+	color:#A23B3B;
+
+}
+
+
+
