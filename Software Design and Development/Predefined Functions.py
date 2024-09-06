@@ -1,0 +1,7 @@
+firstname = input("Enter your first name")
+surname = input("Enter your surname")
+print(firstname.upper())
+print(surname.lower())
+print(len(surname))
+print(ord(surname[0]))
+print(chr(ord(surname[0])))
